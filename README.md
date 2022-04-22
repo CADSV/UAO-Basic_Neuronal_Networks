@@ -20,7 +20,7 @@ Estas redes neuronales fueron hechas como actividad evaluativa para el curso de 
 Para ejecutar la red neuronal se deben seguir los siguientes pasos:
 1. Clonar el presente repositorio para poder descargar los archivos.
 2. Ingresar al sitio web de [Google Colab](https://colab.research.google.com/).
-3. En él aparecerá la siguiente ventana, y nos iremos a la última opción denominada **Subir**, en donde seleccionaremos cualquiera de los archivos que cuya red neuronal queramos observar, analizar o modificar. <p align="center"><img src="https://i.imgur.com/LJ5tLin.png"/></p> 
+3. En él aparecerá la siguiente ventana, y nos iremos a la última opción denominada **Subir**, en donde seleccionaremos cualquiera de los archivos cuya red neuronal queramos observar, analizar o modificar. <p align="center"><img src="https://i.imgur.com/LJ5tLin.png"/></p> 
 4. Una vez que se haya cargado el código, deberemos hacer click arriba a la derecha en donde dice **Conectar**, para que así poder utilizar los recursos gratuitos en la nube que ofrece Google Colab. <p align="center"><img src="https://i.imgur.com/zOuZjuf.png"/></p>
 5. Por último, solo quedaría ejecutar el código, presionando las teclas `Ctrl + F9` o en el menú superior seleccionar la opción de `Entorno de Ejecución > Ejecutar todas`
 
